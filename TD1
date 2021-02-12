@@ -1,0 +1,5 @@
+l'utilisateur appuis sur le bouton d'appel 
+le systeme de controle enregistre l'appel et de cela il affiche un message sur des panneaux donnant la position de l'ascenseur et ferme les portes
+par la suite il fait deplacer l'ascenseur jusqu'a la position de l'utilisateur
+arriver à destination ouverture des portes, l'utilisateur peut ensuite choisir grace au touche interne sa prochaine destination (l'etage), une fois choisi les portes se ferme et 
+l'ascenseur se déplace jusqu'a l'etage demander
